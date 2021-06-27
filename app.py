@@ -17,6 +17,3 @@ def ner():
         mimetype = 'application/json'
     )
     return response
-
-if __name__ == '__main__':
-    app.run(debug = True)
