@@ -6,7 +6,6 @@ chardet==4.0.0
 click==8.0.1
 colorama==0.4.4
 Cython==0.29.14
-dataclasses==0.8
 Flask==2.0.1
 flatbuffers==1.12
 gast==0.4.0
