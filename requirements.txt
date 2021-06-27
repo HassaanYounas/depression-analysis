@@ -2,7 +2,7 @@ nltk
 numpy==1.19.3
 gensim==3.8.3
 keras
-tensorflow
+tensorflow-cpu
 flask
 tweepy
 h5py
