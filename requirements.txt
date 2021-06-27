@@ -6,3 +6,4 @@ tensorflow-cpu
 flask
 tweepy
 h5py
+gunicorn
